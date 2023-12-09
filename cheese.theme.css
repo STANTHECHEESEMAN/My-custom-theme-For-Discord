@@ -20,10 +20,10 @@ body {
     --text-normal: #ffffff;
     --text-muted: #0dff00;
     --channels-default: #079000;
-    --interactive-normal: #118e00;
-    --interactive-hover: #3f0;
-    --interactive-active: #067700;
-    --interactive-muted: #ffffff4d;
+    --interactive-normal: transparent;
+    --interactive-hover: transparent;
+    --interactive-active: transparent;
+    --interactive-muted: transparent;
     --background-primary: transparent;
     --background-secondary: transparent;
     --background-tertiary: transparent;
