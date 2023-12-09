@@ -29,7 +29,7 @@ body {
     --background-tertiary: transparent;
     --background-accent: transparent;
     --background-floating: rgba(0, 0, 0, .8);
-    --channeltextarea-background: #0e0e0e;
+    --channeltextarea-background: transparent;
     --activity-card-background: transparent;
     --deprecated-panel-background: transparent;
 }
