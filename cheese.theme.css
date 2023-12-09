@@ -26,13 +26,14 @@ body {
     --interactive-muted: transparent;
     --background-primary: transparent;
     --background-secondary: transparent;
+    --background-secondary-alt: transparent;
     --background-tertiary: transparent;
-    --background-accent: transparent;
     --background-floating: rgba(0, 0, 0, .8);
     --channeltextarea-background: transparent;
-    --activity-card-background: transparent;
     --deprecated-panel-background: transparent;
-}
+    --background-modifier-hover: rgba(0, 0, 0, .42);
+    --background-modifier-selected: rgba(0, 0, 0, .45);
+  }
 /*standart username color*/
 .username-1A8OIy {
     color: #fff;
